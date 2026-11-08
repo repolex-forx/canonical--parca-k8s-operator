@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "parca-k8s-operator",
+  "versions": [
+    {
+      "commit": "89fe873c4d8490f700e5d223d636c4602319a9a2",
+      "tag": "rev405",
+      "parsed_at": "2026-11-08T15:34:36.680965+00:00"
+    }
+  ]
+}
