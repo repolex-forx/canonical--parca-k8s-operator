@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/parca-k8s-operator/commit/89fe873c4d8490f700e5d223d636c4602319a9a2",
       "git:hexsha": "89fe873c4d8490f700e5d223d636c4602319a9a2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "rev405"
     },
     {
